@@ -54,6 +54,7 @@ Currently preparing for CompTIA Security+ and seeking a cooperative training opp
 | Project | Description | Tools Used | Link |
 |---------|-------------|------------|------|
 | Shodan Search & IoT Reconnaissance | Used Shodan web and CLI to discover exposed IoT devices and misconfigured FTP servers, applying search filters and analyzing banners | Shodan, Kali Linux | [Repo](https://github.com/Nourah-ALobaeid/Shodan-IoT-Reconnaissance) |
+| SQL Injection Lab | Educational lab demonstrating SQL injection attacks and fix using parameterized queries | Python, Flask, SQLite, Kali Linux | [Repo](https://github.com/Nourah-ALobaeid/SQL-Injection-Lab) |
 
 ---
 
