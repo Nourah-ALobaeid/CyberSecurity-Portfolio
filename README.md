@@ -57,6 +57,7 @@ Currently preparing for CompTIA Security+ and seeking a cooperative training opp
 | SQL Injection Lab | Educational lab demonstrating SQL injection attacks and fix using parameterized queries | Python, Flask, SQLite, Kali Linux | [Repo](https://github.com/Nourah-ALobaeid/SQL-Injection-Lab) |
 | Phishing Email Analysis & AI Tools Comparison | Analyzed a phishing email and compared AI tools' detection capabilities | Phishing Analysis, AI Tools | [Repo](https://github.com/Nourah-ALobaeid/Phishing-Emails-Analysis) |
 | Malware Analysis: Defeating Protective Mechanisms | Static/dynamic analysis of DesertShade malware, bypassed anti-debugging, and extracted IOCs | PeStudio, OllyDbg, RegShot | [Repo](https://github.com/Nourah-ALobaeid/Malware-Analysis) |
+| Incident Response Report: WannaCry Analysis | Documented analysis of WannaCry ransomware including IOCs, kill switch, and mitigations | Static/Dynamic Analysis, VirusTotal, Registry | [Repo](https://github.com/Nourah-ALobaeid/Incident-Response-Report-WannaCry-Analysis) |
 
 ---
 
