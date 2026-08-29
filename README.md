@@ -58,6 +58,8 @@ Currently preparing for CompTIA Security+ and seeking a cooperative training opp
 | Phishing Email Analysis & AI Tools Comparison | Analyzed a phishing email and compared AI tools' detection capabilities | Phishing Analysis, AI Tools | [Repo](https://github.com/Nourah-ALobaeid/Phishing-Emails-Analysis) |
 | Malware Analysis: Defeating Protective Mechanisms | Static/dynamic analysis of DesertShade malware, bypassed anti-debugging, and extracted IOCs | PeStudio, OllyDbg, RegShot | [Repo](https://github.com/Nourah-ALobaeid/Malware-Analysis) |
 | Incident Response Report: WannaCry Analysis | Documented analysis of WannaCry ransomware including IOCs, kill switch, and mitigations | Static/Dynamic Analysis, VirusTotal, Registry | [Repo](https://github.com/Nourah-ALobaeid/Incident-Response-Report-WannaCry-Analysis) |
+| SSC Ministry Audit – DesertShadeV3 | Team SOC simulation: enumeration, .NET static analysis, attacker profiling, CVE research, NCA ECC mapping | Nmap, Metasploit, ILSpy, CyberChef | [Repo](https://github.com/Nourah-ALobaeid/SSC-Ministry-Audit-DesertShadeV3) |
+| Reversing .NET Bytecode – DesertShade_Final | Static analysis, patching, and flag recovery from .NET malware using dnSpy | PeStudio, dnSpy, CyberChef | [Repo](https://github.com/Nourah-ALobaeid/Reversing-NET-Bytecode-DesertShade-Final) |
 
 ---
 
