@@ -60,6 +60,7 @@ Currently preparing for CompTIA Security+ and seeking a cooperative training opp
 | Incident Response Report: WannaCry Analysis | Documented analysis of WannaCry ransomware including IOCs, kill switch, and mitigations | Static/Dynamic Analysis, VirusTotal, Registry | [Repo](https://github.com/Nourah-ALobaeid/Incident-Response-Report-WannaCry-Analysis) |
 | SSC Ministry Audit – DesertShadeV3 | Team SOC simulation: enumeration, .NET static analysis, attacker profiling, CVE research, NCA ECC mapping | Nmap, Metasploit, ILSpy, CyberChef | [Repo](https://github.com/Nourah-ALobaeid/SSC-Ministry-Audit-DesertShadeV3) |
 | Reversing .NET Bytecode – DesertShade_Final | Static analysis, patching, and flag recovery from .NET malware using dnSpy | PeStudio, dnSpy, CyberChef | [Repo](https://github.com/Nourah-ALobaeid/Reversing-NET-Bytecode-DesertShade-Final) |
+| Secure Chat Authentication Protocol | Designed and implemented multi-layer authentication and DoS prevention for chat service | Java, MFA, Rate Limiting | [Repo](https://github.com/Nourah-ALobaeid/Secure-Chat-Authentication-Protocol) |
 
 ---
 
