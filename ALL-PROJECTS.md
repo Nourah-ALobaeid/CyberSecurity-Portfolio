@@ -36,6 +36,7 @@ This file contains all my cybersecurity projects organized by category.
 |---------|-------------|------|
 | Incident Response Report: WannaCry Analysis | Documented analysis of WannaCry ransomware including IOCs, kill switch, and mitigations | [Repo](https://github.com/Nourah-ALobaeid/Incident-Response-Report-WannaCry-Analysis) |
 | Phishing Email Analysis & AI Tools Comparison | Analyzed a phishing email and compared AI tools' detection capabilities | [Repo](https://github.com/Nourah-ALobaeid/Phishing-Emails-Analysis) |
+| DoS Incident Report – NIST CSF | Analyzed a DoS attack (ICMP flood) and created an incident report following NIST CSF | NIST CSF, SIEM, IDS/IPS | [Repo](https://github.com/YOUR_USERNAME/DoS-Incident-Report-NIST-CSF) |
 
 ---
 
