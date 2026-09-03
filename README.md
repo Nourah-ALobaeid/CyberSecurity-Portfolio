@@ -56,11 +56,11 @@ Currently preparing for **CompTIA Security+** and seeking a **cooperative traini
 
 | Project | Description | Link |
 |---------|-------------|------|
+| DoS Incident Report – NIST CSF | Analyzed a DoS attack (ICMP flood) and created an incident report following NIST CSF | [Repo](https://github.com/YOUR_USERNAME/DoS-Incident-Report-NIST-CSF) |
 | SSC Ministry Audit – DesertShadeV3 | Team SOC simulation: enumeration, .NET static analysis, attacker profiling, CVE research, NCA ECC mapping | [Repo](https://github.com/YOUR_USERNAME/SSC-Ministry-Audit-DesertShadeV3) |
 | Reversing .NET Bytecode – DesertShade_Final | Static analysis, patching, and flag recovery from .NET malware using dnSpy | [Repo](https://github.com/YOUR_USERNAME/Reversing-NET-Bytecode-DesertShade-Final) |
-| Malware Analysis: Defeating Protective Mechanisms | Static/dynamic analysis of DesertShade malware, bypassed anti-debugging, and extracted IOCs | [Repo](https://github.com/YOUR_USERNAME/Malware-Analysis-DesertShade) |
-| Incident Response Report: WannaCry Analysis | Documented analysis of WannaCry ransomware including IOCs, kill switch, and mitigations | [Repo](https://github.com/YOUR_USERNAME/Incident-Response-Report-WannaCry-Analysis) |
 | Botium Toys – Internal Security Audit | Internal security audit using NIST CSF, including controls and compliance checklist | [Repo](https://github.com/YOUR_USERNAME/Botium-Toys-Internal-Security-Audit) |
+| SQL Injection Lab | Educational lab demonstrating SQL injection attacks and fix using parameterized queries | [Repo](https://github.com/YOUR_USERNAME/SQL-Injection-Lab) |
 
 📂 [View All Projects](ALL-PROJECTS.md)
 
