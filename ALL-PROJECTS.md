@@ -1,0 +1,57 @@
+# All Projects
+
+This file contains all my cybersecurity projects organized by category.
+
+---
+
+## 🔍 Reconnaissance & Scanning
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Shodan Search & IoT Reconnaissance | Used Shodan web and CLI to discover exposed IoT devices and misconfigured FTP servers | [Repo](https://github.com/Nourah-ALobaeid/Shodan-IoT-Reconnaissance) |
+
+---
+
+## 💉 Web Application Security
+
+| Project | Description | Link |
+|---------|-------------|------|
+| SQL Injection Lab | Educational lab demonstrating SQL injection attacks and fix using parameterized queries | [Repo](https://github.com/Nourah-ALobaeid/SQL-Injection-Lab) |
+| Secure Chat Authentication Protocol | Designed and implemented multi-layer authentication and DoS prevention for chat service | [Repo](https://github.com/Nourah-ALobaeid/Secure-Chat-Authentication-Protocol) |
+
+---
+
+## 🦠 Malware Analysis & Reverse Engineering
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Malware Analysis: Defeating Protective Mechanisms | Static/dynamic analysis of DesertShade malware, bypassed anti-debugging, and extracted IOCs | [Repo](https://github.com/Nourah-ALobaeid/Malware-Analysis-DesertShade) |
+| Reversing .NET Bytecode – DesertShade_Final | Static analysis, patching, and flag recovery from .NET malware using dnSpy | [Repo](https://github.com/Nourah-ALobaeid/Reversing-NET-Bytecode-DesertShade-Final) |
+
+---
+
+## 🚨 Incident Response & Threat Intelligence
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Incident Response Report: WannaCry Analysis | Documented analysis of WannaCry ransomware including IOCs, kill switch, and mitigations | [Repo](https://github.com/Nourah-ALobaeid/Incident-Response-Report-WannaCry-Analysis) |
+| Phishing Email Analysis & AI Tools Comparison | Analyzed a phishing email and compared AI tools' detection capabilities | [Repo](https://github.com/Nourah-ALobaeid/Phishing-Emails-Analysis) |
+
+---
+
+## 🏛️ Compliance, Audit & GRC
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Botium Toys – Internal Security Audit | Internal security audit using NIST CSF, including controls and compliance checklist | [Repo](https://github.com/Nourah-ALobaeid/Botium-Toys-Internal-Security-Audit) |
+| SSC Ministry Audit – DesertShadeV3 | Team SOC simulation: enumeration, .NET static analysis, attacker profiling, CVE research, NCA ECC mapping | [Repo](https://github.com/Nourah-ALobaeid/SSC-Ministry-Audit-DesertShadeV3) |
+
+---
+
+## 🚧 Upcoming Projects
+
+> *Planned projects to be added soon:*
+
+---
+
+[⬅ Back to Portfolio](README.md)
