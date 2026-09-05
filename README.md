@@ -21,6 +21,9 @@ Currently preparing for **CompTIA Security+** and seeking a **cooperative traini
 ## 🛡️ Certifications & Courses
 
 - **CompTIA Security+** (In Progress)
+
+- **Google** (Coursera):
+  - Google Cybersecurity
   
 - **Johns Hopkins University** (Coursera):
   - Advanced Malware and Network Anomaly Detection
