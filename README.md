@@ -20,7 +20,7 @@ Currently preparing for **CompTIA Security+** and seeking a **cooperative traini
 
 ## 🛡️ Certifications & Courses
 
-- **CompTIA Security+** (In Progress)
+- **CompTIA Security+**
 
 - **Google** (Coursera):
   - Google Cybersecurity
