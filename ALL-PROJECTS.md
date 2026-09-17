@@ -9,6 +9,7 @@ This file contains all my cybersecurity projects organized by category.
 | Project | Description | Link |
 |---------|-------------|------|
 | Shodan Search & IoT Reconnaissance | Used Shodan web and CLI to discover exposed IoT devices and misconfigured FTP servers | [Repo](https://github.com/Nourah-ALobaeid/Shodan-IoT-Reconnaissance) |
+| Network Defense Home Lab | Hands-on labs on IDS, firewalls, and IPsec VPN configuration | [Repo](https://github.com/Nourah-ALobaeid/Network-Defense-Home-Lab) |
 
 ---
 
