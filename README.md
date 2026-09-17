@@ -63,7 +63,7 @@ Currently preparing for **CompTIA Security+** and seeking a **cooperative traini
 | SSC Ministry Audit – DesertShadeV3 | Team SOC simulation: enumeration, .NET static analysis, attacker profiling, CVE research, NCA ECC mapping | [Repo](https://github.com/Nourah-ALobaeid/SSC-Ministry-Audit-DesertShadeV3) |
 | Reversing .NET Bytecode – DesertShade_Final | Static analysis, patching, and flag recovery from .NET malware using dnSpy | [Repo](https://github.com/Nourah-ALobaeid/Reversing-NET-Bytecode-DesertShade-Final) |
 | Botium Toys – Internal Security Audit | Internal security audit using NIST CSF, including controls and compliance checklist | [Repo](https://github.com/Nourah-ALobaeid/Botium-Toys-Internal-Security-Audit) |
-| SQL Injection Lab | Educational lab demonstrating SQL injection attacks and fix using parameterized queries | [Repo](https://github.com/Nourah-ALobaeid/SQL-Injection-Lab) |
+| Splunk Log Analysis | Investigated a Linux server compromise using Splunk, reconstructed the attack timeline, and identified logging gaps | [Repo](https://github.com/Nourah-ALobaeid/Splunk-Log-Analysis) |
 
 📂 [View All Projects](ALL-PROJECTS.md)
 
@@ -72,7 +72,7 @@ Currently preparing for **CompTIA Security+** and seeking a **cooperative traini
 
 ## 🚀 Currently Learning
 
-- Preparing for **CompTIA Security+**
+- Preparing for **eJPT**
 - Practicing on **TryHackMe** and solving CTF challenges
 - Building hands-on projects to strengthen practical skills
 
