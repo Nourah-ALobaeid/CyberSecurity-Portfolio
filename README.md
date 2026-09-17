@@ -59,11 +59,11 @@ Currently preparing for **CompTIA Security+** and seeking a **cooperative traini
 
 | Project | Description | Link |
 |---------|-------------|------|
-| DoS Incident Report – NIST CSF | Analyzed a DoS attack (ICMP flood) and created an incident report following NIST CSF | [Repo](https://github.com/Nourah-ALobaeid/DoS-Incident-Report-NIST-CSF) |
+| Splunk Log Analysis | Investigated a Linux server compromise using Splunk, reconstructed the attack timeline, and identified logging gaps | [Repo](https://github.com/Nourah-ALobaeid/Splunk-Log-Analysis) |
+| Network Defense Home Lab | Hands-on labs on IDS, firewalls, and IPsec VPN configuration | [Repo](https://github.com/Nourah-ALobaeid/Network-Defense-Home-Lab) |
 | SSC Ministry Audit – DesertShadeV3 | Team SOC simulation: enumeration, .NET static analysis, attacker profiling, CVE research, NCA ECC mapping | [Repo](https://github.com/Nourah-ALobaeid/SSC-Ministry-Audit-DesertShadeV3) |
 | Reversing .NET Bytecode – DesertShade_Final | Static analysis, patching, and flag recovery from .NET malware using dnSpy | [Repo](https://github.com/Nourah-ALobaeid/Reversing-NET-Bytecode-DesertShade-Final) |
 | Botium Toys – Internal Security Audit | Internal security audit using NIST CSF, including controls and compliance checklist | [Repo](https://github.com/Nourah-ALobaeid/Botium-Toys-Internal-Security-Audit) |
-| Splunk Log Analysis | Investigated a Linux server compromise using Splunk, reconstructed the attack timeline, and identified logging gaps | [Repo](https://github.com/Nourah-ALobaeid/Splunk-Log-Analysis) |
 
 📂 [View All Projects](ALL-PROJECTS.md)
 
