@@ -17,7 +17,7 @@ This file contains all my cybersecurity projects organized by category.
 
 | Project | Description | Link |
 |---------|-------------|------|
-| SQL Injection Lab | Educational lab demonstrating SQL injection attacks and fix using parameterized queries | [Repo](https://github.com/Nourah-ALobaeid/SQL-Injection-Lab) |
+| Web Application Security Labs | Hands-on labs on SQL Injection, XSS (reflected/stored), and OWASP ZAP scanning | [Repo](https://github.com/Nourah-ALobaeid/Web-Application-Security-Labs) |
 | Secure Chat Authentication Protocol | Designed and implemented multi-layer authentication and DoS prevention for chat service | [Repo](https://github.com/Nourah-ALobaeid/Secure-Chat-Authentication-Protocol) |
 
 ---
