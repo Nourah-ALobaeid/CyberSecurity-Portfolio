@@ -53,7 +53,7 @@ This file contains all my cybersecurity projects organized by category.
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Cryptography & PKI Labs | Hands-on labs on AES, RSA, hashing, checksums, and self-signed certificates | [Repo](https://github.com/YOUR_USERNAME/Cryptography-PKI-Labs) |
+| Cryptography & PKI Labs | Hands-on labs on AES, RSA, hashing, checksums, and self-signed certificates | [Repo](https://github.com/Nourah-ALobaeid/Cryptography-PKI-Labs) |
 
 ---
 
