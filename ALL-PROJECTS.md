@@ -49,6 +49,12 @@ This file contains all my cybersecurity projects organized by category.
 | Botium Toys – Internal Security Audit | Internal security audit using NIST CSF, including controls and compliance checklist | [Repo](https://github.com/Nourah-ALobaeid/Botium-Toys-Internal-Security-Audit) |
 | SSC Ministry Audit – DesertShadeV3 | Team SOC simulation: enumeration, .NET static analysis, attacker profiling, CVE research, NCA ECC mapping | [Repo](https://github.com/Nourah-ALobaeid/SSC-Ministry-Audit-DesertShadeV3) |
 
+## 🔐 Cryptography & PKI
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Cryptography & PKI Labs | Hands-on labs on AES, RSA, hashing, checksums, and self-signed certificates | [Repo](https://github.com/YOUR_USERNAME/Cryptography-PKI-Labs) |
+
 ---
 
 ## 🚧 Upcoming Projects
