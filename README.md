@@ -68,6 +68,18 @@ Currently preparing for **CompTIA Security+** and seeking a **cooperative traini
 📂 [View All Projects](ALL-PROJECTS.md)
 
 
+## 🏆 Hackathons & Achievements
+
+| Event | Project | Role | Result | Links |
+|-------|---------|------|--------|-------|
+| Arabathon 2026 (عربثون) | Mawrooth – Nabati Poetry AI | Lead Developer & Project Lead | 🥇 Idea Award | [Repo](https://github.com/Nourah-ALobaeid/Mawrooth-Nabati-Poetry-AI) · [Model](https://huggingface.co/NorahAlobaied/Mawrooth-ALLaM-7B-LoRA) |
+
+Mawrooth — An AI system for explaining Saudi Nabati poetry and generating visual descriptions, built on ALLaM-7B fine-tuned with QLoRA on 586 curated verses with a 1,300+ term Nabati dictionary. Achieved 85.75% token accuracy.
+
+My Role: Led end-to-end development — data curation, QLoRA training, Gradio interface, and Hugging Face deployment.
+
+> *This project is outside my cybersecurity focus but reflects my skills in AI, project leadership, and rapid learning under pressure.*
+
 ---
 
 ## 🚀 Currently Learning
