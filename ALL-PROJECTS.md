@@ -62,9 +62,8 @@ This file contains all my cybersecurity projects organized by category.
 
 - [ ] SIEM Home Lab (Wazuh/Splunk)
 - [ ] Python Security Automation Scripts
-- [ ] Network Traffic Analysis with Wireshark
 - [ ] TryHackMe CTF Writeups
 - [ ] Active Directory Home Lab
-- [ ] Hackathon Participation (In Progress)
+- [ ] Digital Forensics Lab (Autopsy / Volatility)
 
 [⬅ Back to Portfolio](README.md)
