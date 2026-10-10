@@ -26,8 +26,7 @@ This file contains all my cybersecurity projects organized by category.
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Malware Analysis: Defeating Protective Mechanisms | Static/dynamic analysis of DesertShade malware, bypassed anti-debugging, and extracted IOCs | [Repo](https://github.com/Nourah-ALobaeid/Malware-Analysis-DesertShade) |
-| Reversing .NET Bytecode – DesertShade_Final | Static analysis, patching, and flag recovery from .NET malware using dnSpy | [Repo](https://github.com/Nourah-ALobaeid/Reversing-NET-Bytecode-DesertShade-Final) |
+| Malware Analysis Labs | Static/dynamic analysis and .NET reverse engineering of DesertShade malware samples | [Repo](https://github.com/Nourah-ALobaeid/Malware-Analysis-Labs) |
 
 ---
 
