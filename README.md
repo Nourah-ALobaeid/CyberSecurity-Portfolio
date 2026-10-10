@@ -59,11 +59,11 @@ Currently preparing for **CompTIA Security+** and seeking a **cooperative traini
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Splunk Log Analysis | Investigated a Linux server compromise using Splunk, reconstructed the attack timeline, and identified logging gaps | [Repo](https://github.com/YOUR_USERNAME/Splunk-Log-Analysis) |
-| Network Defense Home Lab | Hands-on labs on IDS (Snort), firewalls (Windows/pfSense), and IPsec VPN | [Repo](https://github.com/YOUR_USERNAME/Network-Defense-Home-Lab) |
-| SSC Ministry Audit – DesertShadeV3 | Team SOC simulation: enumeration, .NET static analysis, attacker profiling, NCA ECC mapping | [Repo](https://github.com/YOUR_USERNAME/SSC-Ministry-Audit-DesertShadeV3) |
-| Malware Analysis Labs | Static/dynamic analysis and .NET reverse engineering of DesertShade malware samples | [Repo](https://github.com/YOUR_USERNAME/Malware-Analysis-Labs) |
-| Botium Toys – Internal Security Audit | Internal security audit using NIST CSF with controls and compliance checklist | [Repo](https://github.com/YOUR_USERNAME/Botium-Toys-Internal-Security-Audit) |
+| Splunk Log Analysis | Investigated a Linux server compromise using Splunk, reconstructed the attack timeline, and identified logging gaps | [Repo](https://github.com/Nourah-ALobaeid/Splunk-Log-Analysis) |
+| Network Defense Home Lab | Hands-on labs on IDS (Snort), firewalls (Windows/pfSense), and IPsec VPN | [Repo](https://github.com/Nourah-ALobaeid/Network-Defense-Home-Lab) |
+| SSC Ministry Audit – DesertShadeV3 | Team SOC simulation: enumeration, .NET static analysis, attacker profiling, NCA ECC mapping | [Repo](https://github.com/Nourah-ALobaeid/SSC-Ministry-Audit-DesertShadeV3) |
+| Malware Analysis Labs | Static/dynamic analysis and .NET reverse engineering of DesertShade malware samples | [Repo](https://github.com/Nourah-ALobaeid/Malware-Analysis-Labs) |
+| Botium Toys – Internal Security Audit | Internal security audit using NIST CSF with controls and compliance checklist | [Repo](https://github.com/Nourah-ALobaeid/Botium-Toys-Internal-Security-Audit) |
 
 📂 [View All Projects](ALL-PROJECTS.md)
 
